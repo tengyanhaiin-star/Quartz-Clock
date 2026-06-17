@@ -2,8 +2,6 @@
 
 A real-time analog clock built entirely in HTML5 Canvas, styled after classic American comic books — bold outlines, Ben-Day halftone dots, starburst rays, and onomatopoeia that pops on every beat.
 
-![Comic Clock Preview](preview.png)
-
 ---
 
 ## ✨ Features
@@ -26,10 +24,10 @@ No build tools, no dependencies, no installation required. Just open the file:
 git clone https://github.com/tengyanhaiin-star/Comic-Clock.git
 
 # Open in your browser
-open Comic-Clock/comic_clock.html
+open Comic-Clock/index.html
 ```
 
-Or simply download `comic_clock.html` and open it directly — it is a fully self-contained single file.
+Or simply download `index.html` and open it directly — it is a fully self-contained single file.
 
 ---
 
