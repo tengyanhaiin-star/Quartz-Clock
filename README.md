@@ -38,4 +38,4 @@ All key visual parameters live near the top of the `<style>` block and are easy 
 
 ## 📄 License
 
-[MIT License](LICENSE) © 2026 tengyanhaiin-star
+MIT — see [LICENSE](LICENSE) for details.
